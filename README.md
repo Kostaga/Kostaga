@@ -7,7 +7,7 @@ Student at Aristotle University Of Thessaloniki
 Currently pursuing my studies in Computer Science at Aristotle University of Thessaloniki. In my personal projects, I actively implement the knowledge I gain to explore new possibilities and push the boundaries of what I can create.
 
 *   🌍  I'm based in Greece
-*   🖥️  See my portfolio at [here](http://https://kostaga.github.io)
+*   🖥️  See my portfolio at [here](https://kostaga.github.io)
 *   ✉️  You can contact me at [agathopouloskonstantinos@gmail.com](mailto:agathopouloskonstantinos@gmail.com)
 *   🚀  I'm currently working on [Projects](http://blank)
 *   🧠  I'm learning Full Stack Development
