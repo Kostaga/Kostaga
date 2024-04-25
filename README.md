@@ -20,9 +20,13 @@ Currently pursuing my studies in Computer Science at Aristotle University of The
 
 ### Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kostaga?theme=dark&font=ABeeZee)
+<div style="text-align: center;">
 
-[![Kostaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=kostaga)](https://github.com/anuraghazra/github-readme-stats)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Kostaga?theme=dark&font=ABeeZee) <br><br>
+  [![Kostaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=kostaga&show_icons=true&theme=dark&border_radius=15&border_color=d9ff00)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
                   
 ### Socials
